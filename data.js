@@ -960,15 +960,5 @@ const books = [
       "pages": 209,
       "title": "To the Lighthouse",
       "year": 1927
-    },
-    {
-      "author": "Marguerite Yourcenar",
-      "country": "France/Belgium",
-      "imageLink": "images/memoirs-of-hadrian.jpg",
-      "language": "French",
-      "link": "https://en.wikipedia.org/wiki/Memoirs_of_Hadrian\n",
-      "pages": 408,
-      "title": "Memoirs of Hadrian",
-      "year": 1951
     }
   ]
